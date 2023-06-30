@@ -1,0 +1,4 @@
+/media/krohn/3F35813377AEA0EC/Logiciels/clion-2022.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/media/krohn/3F35813377AEA0EC/Logiciels/clion-2022.1/bin/ninja/linux/ninja -G Ninja -S /home/krohn/CLionProjects/market_matching-trading_server-cpp -B /home/krohn/CLionProjects/market_matching-trading_server-cpp/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/krohn/CLionProjects/market_matching-trading_server-cpp/cmake-build-debug
